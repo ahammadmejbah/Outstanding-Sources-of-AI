@@ -6,9 +6,9 @@
 AI, which stands for artificial intelligence, refers, in its most basic form, to systems or computers that imitate human intellect in order to carry out tasks and may iteratively improve themselves depending on the information that they acquire. There are many different guises that AI may take. Here are a few examples:
 
 <ol>
-<li> AI is used by chatbots so they can learn client issues more quickly and deliver replies that are more effective. </li>
-<li> When it comes to improving scheduling, intelligent assistants employ artificial intelligence to interpret important information from vast free-text databases. </li>
-<li> Users' watching histories may be used by recommendation engines to provide automatic suggestions for new television programmes to watch. </li>
+<li> ```python AI is used by chatbots so they can learn client issues more quickly and deliver replies that are more effective.``` </li>
+<li> ```python When it comes to improving scheduling, intelligent assistants employ artificial intelligence to interpret important information from vast free-text databases.``` </li>
+<li> ```python Users' watching histories may be used by recommendation engines to provide automatic suggestions for new television programmes to watch.``` </li>
 </ol>
 
  To a far greater extent than it is concerned with any specific structure or function, artificial intelligence refers to the method as well as the potential of superpowered thinking and data processing. Although the term artificial intelligence (AI) conjures up visions of high-functioning robots that resemble people taking over the world, the purpose of AI is not to replace humans. The purpose of this initiative is to greatly improve human skills and contributions. Because of this, it is a highly significant asset for the company.
