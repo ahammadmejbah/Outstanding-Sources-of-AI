@@ -6,7 +6,9 @@
 AI, which stands for artificial intelligence, refers, in its most basic form, to systems or computers that imitate human intellect in order to carry out tasks and may iteratively improve themselves depending on the information that they acquire. There are many different guises that AI may take. Here are a few examples:
 
 <ol>
-<li> ```python AI is used by chatbots so they can learn client issues more quickly and deliver replies that are more effective.``` </li>
+<li> ```python 
+ AI is used by chatbots so they can learn client issues more quickly and deliver replies that are more effective.
+ ``` </li>
 <li> ```python When it comes to improving scheduling, intelligent assistants employ artificial intelligence to interpret important information from vast free-text databases.``` </li>
 <li> ```python Users' watching histories may be used by recommendation engines to provide automatic suggestions for new television programmes to watch.``` </li>
 </ol>
