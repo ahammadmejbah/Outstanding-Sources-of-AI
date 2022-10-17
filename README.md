@@ -2,25 +2,25 @@
 
 ### WHAT IS AI?
 
-<code><b> AI, which stands for artificial intelligence, refers, in its most basic form, to systems or computers that imitate human intellect in order to carry out tasks and may iteratively improve themselves depending on the information that they acquire. There are many different guises that AI may take. Here are a few examples:
+<code><b> AI, which stands for artificial intelligence, refers, in its most basic form, to systems or computers that imitate human intellect in order to carry out tasks and may iteratively improve themselves depending on the information that they acquire. There are many different guises that AI may take. Here are a few examples:</b></code>
 
 <ol>
-<li> AI is used by chatbots so they can learn client issues more quickly and deliver replies that are more effective. </li>
-<li> When it comes to improving scheduling, intelligent assistants employ artificial intelligence to interpret important information from vast free-text databases. </li>
-<li> Users' watching histories may be used by recommendation engines to provide automatic suggestions for new television programmes to watch. </li>
+<code><b><li> AI is used by chatbots so they can learn client issues more quickly and deliver replies that are more effective. </li></b></code>
+<code><b><li> When it comes to improving scheduling, intelligent assistants employ artificial intelligence to interpret important information from vast free-text databases. </li></b></code>
+<code><b><li> Users' watching histories may be used by recommendation engines to provide automatic suggestions for new television programmes to watch. </li></b></code>
 </ol>
 
+<code><b> To a far greater extent than it is concerned with any specific structure or function, artificial intelligence refers to the method as well as the potential of superpowered thinking and data processing. Although the term artificial intelligence (AI) conjures up visions of high-functioning robots that resemble people taking over the world, the purpose of AI is not to replace humans. The purpose of this initiative is to greatly improve human skills and contributions. Because of this, it is a highly significant asset for the company. </b></code>
 
 
-</b></code>
 
-### WHY CHOOSE AI?
+<code><b> Applications that execute complicated activities that traditionally needed human input, such as conversing with clients online or playing chess, have given rise to a new category of software known as artificial intelligence (AI). The word and its subfields, which include machine learning and deep learning, are often used interchangeably with one another. However, there are several key distinctions. For instance, the field of machine learning focuses on the development of computer programs that can learn or enhance their functionality depending on the data that they take in. It is essential to keep in mind that while all artificial intelligence is machine learning, not all machine learning is AI. </b></code>
 
-Artificial Intelligence is advancing by leaps and bounds. Recent research in the fields of Data Science, Machine Learning, Natural Language Processing and other sub fields of AI has already started to impact the lives of common people. AI is no more a superficial concept. It's already used by tech giants, companies and startups to solve everyday problems. That's why choosing AI as a career path is really rewarding in the long run.
+<code><b> Many businesses recognize that they must make considerable investments in data science teams if they want to realize the full potential of AI. Data science is an interdisciplinary subject that employs scientific and other approaches to extract value from data. To evaluate data gathered from a variety of sources, data scientists combine the skills they've gained in areas such as statistics and computer science with their understanding of business.</b></code>
 
-Even if your profession is not directly related to tech, still it's said that AI will disrupt every field in one or other ways. That's why you need to have at least a basic understanding of how AI works.
 
-### 🤖 FREE AI COURSES:
+
+### 🧑‍💻 FREE AI COURSES:
 - EdX’s Artificial Intelligence - https://www.edx.org/course/artificial-intelligence-ai
 - Udacity’s Intro to Artificial Intelligence - https://www.udacity.com/course/intro-to-artificial-intelligence--cs271
 - Artificial Intelligence: Principles and Techniques By Stanford - http://web.stanford.edu/class/cs221/
@@ -34,7 +34,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Learn with Google AI - https://ai.google/education/
 - Crash Course - Artificial Intelligence https://www.youtube.com/watch?v=GvYYFloV0aA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
 
-### 🔢 FREE MATHEMATICS RESOURCES:
+### 🧑‍💻 FREE MATHEMATICS RESOURCES:
 #### Videos
 - All Levels/Pre-U - http://www.patrickjmt.com/
 - All Levels/Pre-U - http://www.khanacademy.org/
@@ -51,7 +51,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - All Levels/Pre-U - http://www.hippocampus.org/
 - GCSE Level - https://www.youtube.com/user/schoolmaths
 
-#### For Fun
+#### 🧑‍💻 For Fun
 - 3Blue1Brown https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
 - Mathologer https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg
 - MathologerII - https://www.youtube.com/channel/UCH74Hc_7WYVzx1GXhLEH6Eg
@@ -66,7 +66,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - AI and Games youtube channel https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q
 - A.I. and Machine Learning in Unity, Sebastian Schuchmann youtube channel https://www.youtube.com/c/SebastianSchuchmannAI
 
-#### Example problems and online notes/refrences
+#### 🧑‍💻 Example problems and online notes/refrences
 - Example Problems - http://www.exampleproblems.com/
 - Interact math - http://www.interactmath.com/
 - Pauls online Math notes - http://tutorial.math.lamar.edu/
@@ -78,7 +78,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Harvey Mudd College's Online Math Tutorials - http://www.math.hmc.edu/calculus/tutorials/
 - Real (and some complex) Analysis & Programming - http://www.mathcs.org/
 
-#### Computer Algebra Systems
+#### 🧑‍💻 Computer Algebra Systems
 - SAGE - http://www.sagemath.org/index.html
 - Maxima - http://maxima.sourceforge.net/
 - Octave - http://www.gnu.org/software/octave
@@ -86,7 +86,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Geogebra - http://www.geogebra.org/cms
 - PARI/GP https://pari.math.u-bordeaux.fr/
 
-#### Graphics And Visualizing mathematics
+#### 🧑‍💻 Graphics And Visualizing mathematics
 - GeoGebra - http://www.geogebra.org/cms
 - gnuplot - http://www.gnuplot.info/
 - garminder - http://www.gapminder.org/
@@ -99,7 +99,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Symbolab - http://www.symbolab.com/
 - Scilab - http://www.scilab.org/
 
-#### TypeSetting  (Latex)
+#### 🧑‍💻 TypeSetting  (Latex)
 - TeX Users Group - http://www.tug.org/
 - The Comprehensive TeX Archive Network - http://www.ctan.org/
 - Art of Problem Solving Tutorial - http://www.artofproblemsolving.com/LaTeX/AoPS_L_About.php
@@ -109,7 +109,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - WriteLaTeX WYSIWYG - https://www.writelatex.com/
 - LaTeX Examples - http://www.texample.net/
 
-#### Blogs/Articles
+#### 🧑‍💻 Blogs/Articles
 - Terry Tao - http://terrytao.wordpress.com/
 - American Mathematical Society - http://blogs.ams.org/blogonmathblogs/
 - AMS notices - http://www.ams.org/notices/
@@ -130,7 +130,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Secret Blogging Seminar - https://sbseminar.wordpress.com/
 - Math Wizurd - http://www.mathwizurd.com/calc
 
-#### Misc
+#### 🧑‍💻 Misc
 - academicearth.org - http://www.academicearth.org/subjects/mathematics
 - Encyclopedia of Mathematics - http://www.encyclopediaofmath.org/
 - Large List of Recommended books, online resources - http://hbpms.blogspot.com/
@@ -139,7 +139,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Free Book on Neural Network and Deep Learning - http://neuralnetworksanddeeplearning.com/
 - Informational website on artificial intelligence - https://intelligencereborn.com
 
-#### Other Lists of resources
+#### 🧑‍💻 Other Lists of resources
 - Math Overflow's List of Free Online Lectures - http://mathoverflow.net/questions/54430/video-lectures-of-mathematics-courses-available-online-for-free
 - Top-down Learning Path on Machine Learning for Software Engineers - https://github.com/ZuzooVn/machine-learning-for-software-engineers
 - Fun Learning Projects on Machine Learning for Beginners - https://elitedatascience.com/machine-learning-projects-for-beginners
@@ -147,7 +147,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 
 
 
-### ⚙️ FREE MACHINE LEARNING COURSES:
+### 🧑‍💻 FREE MACHINE LEARNING COURSES:
 - Machine Learning by Andrew NG - https://www.coursera.org/learn/machine-learning
 - Intro to ML by Udacity - https://www.udacity.com/course/intro-to-machine-learning--ud120
 - EdX’s Learning from Data(Introductory Machine Learning) - https://www.edx.org/course/learning-from-data-introductory-machine-learning#!
@@ -163,26 +163,26 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Intermediate Machine Learning Course at Kaggle - https://www.kaggle.com/learn/intermediate-machine-learning
 - Machine Learning with Python - https://cognitiveclass.ai/courses/machine-learning-with-python
 
-### 📈 FREE DATA SCIENCE COURSES:
+### 🧑‍💻 FREE DATA SCIENCE COURSES:
 - IBM Data Science Professional Certificate - https://www.coursera.org/professional-certificates/ibm-data-science
 - Udacity Intro to Data Science - https://www.udacity.com/course/intro-to-data-science--ud359
 - Introduction to Data Science in Python - https://www.coursera.org/learn/python-data-analysis
 - Introduction to Data Science Revised - https://alison.com/course/introduction-to-data-science-revised
 - A Crash Course in Data Science - https://www.coursera.org/learn/data-science-course
 
-### 🧠 FREE DEEP LEARNING COURSES:
+### 🧑‍💻 FREE DEEP LEARNING COURSES:
 - Google’s Deep Learning Course- https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
 - Practical Deep Learning for Coders - https://course.fast.ai/
 - Deep Learning from the Foundations - https://course.fast.ai/part2
 - Intro to Deep Learning using Tensorflow and Keras Course at Kaggle - https://www.kaggle.com/learn/intro-to-deep-learning
 - Free Book on Neural Network and Deep Learning - http://neuralnetworksanddeeplearning.com/
 
-### 🗣️ FREE NLP COURSES:
+### 🗣🧑‍💻 FREE NLP COURSES:
 - A Code-First Introduction to Natural Language Processing - https://www.fast.ai/2019/07/08/fastai-nlp/
 - Natural Language Processing Specialization by Deeplearning.ai - https://www.coursera.org/specializations/natural-language-processing
 - Natural Language Processing Course at Kaggle - https://www.kaggle.com/learn/natural-language-processing
 
-### 👁️ FREE MACHINE LEARNING IN GRAPHICS AND VISION COURSES:
+### 🧑‍💻 FREE MACHINE LEARNING IN GRAPHICS AND VISION COURSES:
 - CVPR 2020: Neural Rendering - https://www.neuralrender.com/
 
 ### 🏆 DATA SCIENCE COMPETITION HOSTING PLATFORMS:
@@ -199,7 +199,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Omdena - https://omdena.com/
 - HackerEarth -https://www.hackerearth.com/hackathon/explore/field/machine-learning/
 
-### 📦 DATASET REPOSITORIES:
+### 🧑‍💻 DATASET REPOSITORIES:
 - Data World - https://data.world/datasets/open-data
 - Dataset Search by Google - https://datasetsearch.research.google.com/
 - Kaggle Dataset - https://www.kaggle.com/datasets
@@ -209,7 +209,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Tensorflow Datasets - https://www.tensorflow.org/datasets/catalog/overview
 - Quandl - https://www.quandl.com/
 
-### 🔬 AI RESEARCH AT BIG COMPANIES:
+### 🧑‍💻 AI RESEARCH AT BIG COMPANIES:
 - Machine Learning at Apple - https://machinelearning.apple.com/
 - AI at Uber - https://www.uber.com/us/en/uberai/
 - Machine Learning at Careem - https://blog.careem.com/en/tag/machine-learning/
@@ -227,7 +227,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Data Science at Bolt - https://medium.com/@boltapp
 - Industrial AI Research at Hitachi - https://www.hitachi.com/rd/sc/aiblog/index.html
 
-### 💻 DEVELOPER RESOURCES:
+### 🧑‍💻 DEVELOPER RESOURCES:
 - Apple - https://developer.apple.com/machine-learning/
 - Facebook - https://ai.facebook.com/tools/
 - Google - https://cloud.google.com/products/ai
@@ -273,13 +273,13 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Machine Learning Mastery: https://machinelearningmastery.com/blog/
 - Learn OpenCV: https://www.learnopencv.com/
 
-### AI CHEAT-SHEETS:
-- Best of AI Cheat-Sheets: https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7
-- Stanford CS229 Machine Learning: https://github.com/afshinea/stanford-cs-229-machine-learning
-- Stanford CS230 Deep Learning: https://github.com/afshinea/stanford-cs-230-deep-learning
-- Stanford CS221 Artificial Intelligence: https://github.com/afshinea/stanford-cs-221-artificial-intelligence
+### 🧑‍💻 AI CHEAT-SHEETS:
+- Best of AI Cheat-Sheets: https://github.com/ahammadmejbah/DataScience-MachineLearning-DeepLearning-CheatSheet
+- Stanford CS229 Machine Learning: https://github.com/ahammadmejbah/DataScience-MachineLearning-DeepLearning-CheatSheet/tree/main/Machine%20Learning
+- Stanford CS230 Deep Learning: https://github.com/ahammadmejbah/DataScience-MachineLearning-DeepLearning-CheatSheet/tree/main/Deep%20Learning
+- Stanford CS221 Artificial Intelligence: https://github.com/ahammadmejbah/Computer-Vision-Cheat-Sheet
 - Collection of AI Cheat-Sheets: http://www.aicheatsheets.com/
 
-# Thank You [Deep Neuron AI] ❤
+### Thank You [Deep Neuron AI] ❤
 
 </div>
