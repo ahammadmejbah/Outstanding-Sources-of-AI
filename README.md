@@ -20,6 +20,7 @@ Applications that execute complicated activities that traditionally needed human
 Many businesses recognize that they must make considerable investments in data science teams if they want to realize the full potential of AI. Data science is an interdisciplinary subject that employs scientific and other approaches to extract value from data. To evaluate data gathered from a variety of sources, data scientists combine the skills they've gained in areas such as statistics and computer science with their understanding of business.
 
 
+```python
 
 ### 🧑‍💻 FREE AI COURSES:
 - EdX’s Artificial Intelligence - https://www.edx.org/course/artificial-intelligence-ai
@@ -34,6 +35,8 @@ Many businesses recognize that they must make considerable investments in data s
 - Microsoft AI School - https://aischool.microsoft.com/en-us/home
 - Learn with Google AI - https://ai.google/education/
 - Crash Course - Artificial Intelligence https://www.youtube.com/watch?v=GvYYFloV0aA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
+```
+
 
 ```python
 ### 🧑‍💻 FREE MATHEMATICS RESOURCES:
@@ -159,11 +162,12 @@ Many businesses recognize that they must make considerable investments in data s
 - Informational website on artificial intelligence - https://intelligencereborn.com
 ```
 
+```python
 #### 🧑‍💻 Other Lists of resources
 - Math Overflow's List of Free Online Lectures - http://mathoverflow.net/questions/54430/video-lectures-of-mathematics-courses-available-online-for-free
 - Top-down Learning Path on Machine Learning for Software Engineers - https://github.com/ZuzooVn/machine-learning-for-software-engineers
 - Fun Learning Projects on Machine Learning for Beginners - https://elitedatascience.com/machine-learning-projects-for-beginners
-
+```
 
 ```python
 
@@ -209,10 +213,10 @@ Many businesses recognize that they must make considerable investments in data s
 - Natural Language Processing Course at Kaggle - https://www.kaggle.com/learn/natural-language-processing
 ```
 
-
+```python
 ### 🧑‍💻 FREE MACHINE LEARNING IN GRAPHICS AND VISION COURSES:
 - CVPR 2020: Neural Rendering - https://www.neuralrender.com/
-
+```
 
 ```python
 ### 🏆 DATA SCIENCE COMPETITION HOSTING PLATFORMS:
@@ -270,6 +274,8 @@ Many businesses recognize that they must make considerable investments in data s
 - Microsoft - https://docs.microsoft.com/en-us/ai/
 ```
 
+```python
+
 ### 🎥 YOUTUBE CHANNELS:
 - The Massachusetts Institute of Technology's Computer Science and Artificial Intelligence Laboratory - https://www.youtube.com/user/MITCSAIL/videos
 - The Allen Institute for Artificial Intelligence - https://www.youtube.com/channel/UCEqgmyWChwvt6MFGGlmUQCQ/videos
@@ -282,7 +288,7 @@ Many businesses recognize that they must make considerable investments in data s
 - Krish Nayak for ML/DL/Data Science - https://www.youtube.com/user/krishnaik06
 - TechWithTim - Python and ML Tutorials - https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
 - Jabrils https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg
-
+```
 
 ```python
 ### 💼 AI JOB SITES:
@@ -315,13 +321,15 @@ Many businesses recognize that they must make considerable investments in data s
 - Learn OpenCV: https://www.learnopencv.com/
 ```
 
+```python
+
 ### 🧑‍💻 AI CHEAT-SHEETS:
 - Best of AI Cheat-Sheets: https://github.com/ahammadmejbah/DataScience-MachineLearning-DeepLearning-CheatSheet
 - Stanford CS229 Machine Learning: https://github.com/ahammadmejbah/DataScience-MachineLearning-DeepLearning-CheatSheet/tree/main/Machine%20Learning
 - Stanford CS230 Deep Learning: https://github.com/ahammadmejbah/DataScience-MachineLearning-DeepLearning-CheatSheet/tree/main/Deep%20Learning
 - Stanford CS221 Artificial Intelligence: https://github.com/ahammadmejbah/Computer-Vision-Cheat-Sheet
 - Collection of AI Cheat-Sheets: http://www.aicheatsheets.com/
-
+```
 ### Thank You [Deep Neuron AI] ❤
 
 </div>
