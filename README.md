@@ -23,22 +23,25 @@ Applications that execute complicated activities that traditionally needed human
 Many businesses recognize that they must make considerable investments in data science teams if they want to realize the full potential of AI. Data science is an interdisciplinary subject that employs scientific and other approaches to extract value from data. To evaluate data gathered from a variety of sources, data scientists combine the skills they've gained in areas such as statistics and computer science with their understanding of business.
 
 
-```python
 
-### 🧑‍💻 FREE AI COURSES:
-- EdX’s Artificial Intelligence - https://www.edx.org/course/artificial-intelligence-ai
-- Udacity’s Intro to Artificial Intelligence - https://www.udacity.com/course/intro-to-artificial-intelligence--cs271
-- Artificial Intelligence: Principles and Techniques By Stanford - http://web.stanford.edu/class/cs221/
-- Udacity’s Artificial Intelligence for Robotics by Georgia Tech - https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
-- IBM's Data Science and Cognitive Computing courses - https://cognitiveclass.ai/
-- Elements of AI - https://www.elementsofai.com/
-- Building AI - https://buildingai.elementsofai.com/
-- Intellipaat's Artificial Intelligence - https://intellipaat.com/academy/course/artificial-intelligence-free-course/
-- EdX/Harvard University's CS50: Introduction to Artificial Intelligence with Python - https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python
-- Microsoft AI School - https://aischool.microsoft.com/en-us/home
-- Learn with Google AI - https://ai.google/education/
-- Crash Course - Artificial Intelligence https://www.youtube.com/watch?v=GvYYFloV0aA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
-```
+🧑‍💻 FREE AI COURSES:
+<ol>
+ 	<li><a href="https://www.edx.org/course/artificial-intelligence-ai">EdX’s Artificial Intelligence</a></li>
+ 	<li><a href="https://www.udacity.com/course/intro-to-artificial-intelligence--cs271">Udacity’s Intro to</a></li>
+ 	<li><a href="https://www.udacity.com/course/intro-to-artificial-intelligence--cs271">Artificial Intelligence</a></li>
+ 	<li><a href="http://web.stanford.edu/class/cs221/">Artificial Intelligence</a></li>
+ 	<li><a href="http://web.stanford.edu/class/cs221/">Principles and Techniques By Stanford</a></li>
+ 	<li><a href="https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373">Udacity’s Artificial Intelligence for Robotics by Georgia Tech</a></li>
+ 	<li><a href="https://cognitiveclass.ai/">IBM's Data Science and Cognitive Computing courses</a></li>
+ 	<li><a href="https://www.elementsofai.com/">Elements of AI</a></li>
+ 	<li><a href="https://buildingai.elementsofai.com/">Building AI</a></li>
+ 	<li><a href="https://intellipaat.com/academy/course/artificial-intelligence-free-course/">Intellipaat's Artificial Intelligence</a></li>
+ 	<li><a href="https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python">EdX/Harvard University's CS50: Introduction to Artificial Intelligence with Python</a></li>
+ 	<li><a href="https://aischool.microsoft.com/en-us/home">Microsoft AI School</a></li>
+ 	<li><a href="https://ai.google/education/">Learn with Google AI</a></li>
+ 	<li><a href="https://www.youtube.com/watch?v=GvYYFloV0aA&amp;list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b">Crash Course - Artificial Intelligence </a></li>
+</ol>
+
 
 
 ```python
