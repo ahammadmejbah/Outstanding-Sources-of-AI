@@ -35,6 +35,7 @@ Many businesses recognize that they must make considerable investments in data s
 - Learn with Google AI - https://ai.google/education/
 - Crash Course - Artificial Intelligence https://www.youtube.com/watch?v=GvYYFloV0aA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
 
+```python
 ### 🧑‍💻 FREE MATHEMATICS RESOURCES:
 #### Videos
 - All Levels/Pre-U - http://www.patrickjmt.com/
@@ -51,7 +52,9 @@ Many businesses recognize that they must make considerable investments in data s
 - All Levels/Pre-U - https://www.youtube.com/user/profrobbob
 - All Levels/Pre-U - http://www.hippocampus.org/
 - GCSE Level - https://www.youtube.com/user/schoolmaths
+```
 
+```python
 #### 🧑‍💻 For Fun
 - 3Blue1Brown https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
 - Mathologer https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg
@@ -66,7 +69,9 @@ Many businesses recognize that they must make considerable investments in data s
 - Blackpenredpen https://www.youtube.com/user/blackpenredpen
 - AI and Games youtube channel https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q
 - A.I. and Machine Learning in Unity, Sebastian Schuchmann youtube channel https://www.youtube.com/c/SebastianSchuchmannAI
+```
 
+```python
 #### 🧑‍💻 Example problems and online notes/refrences
 - Example Problems - http://www.exampleproblems.com/
 - Interact math - http://www.interactmath.com/
@@ -78,7 +83,10 @@ Many businesses recognize that they must make considerable investments in data s
 - History of Math - http://www-history.mcs.st-and.ac.uk/
 - Harvey Mudd College's Online Math Tutorials - http://www.math.hmc.edu/calculus/tutorials/
 - Real (and some complex) Analysis & Programming - http://www.mathcs.org/
+```
 
+
+```python
 #### 🧑‍💻 Computer Algebra Systems
 - SAGE - http://www.sagemath.org/index.html
 - Maxima - http://maxima.sourceforge.net/
@@ -86,7 +94,9 @@ Many businesses recognize that they must make considerable investments in data s
 - Wolfram Alpha- http://www.wolframalpha.com/
 - Geogebra - http://www.geogebra.org/cms
 - PARI/GP https://pari.math.u-bordeaux.fr/
+```
 
+```python
 #### 🧑‍💻 Graphics And Visualizing mathematics
 - GeoGebra - http://www.geogebra.org/cms
 - gnuplot - http://www.gnuplot.info/
@@ -99,7 +109,10 @@ Many businesses recognize that they must make considerable investments in data s
 - Desmos - http://desmos.com/calculator/
 - Symbolab - http://www.symbolab.com/
 - Scilab - http://www.scilab.org/
+```
 
+
+```python
 #### 🧑‍💻 TypeSetting  (Latex)
 - TeX Users Group - http://www.tug.org/
 - The Comprehensive TeX Archive Network - http://www.ctan.org/
@@ -109,6 +122,9 @@ Many businesses recognize that they must make considerable investments in data s
 - Detextify - http://detexify.kirelabs.org/classify.html?
 - WriteLaTeX WYSIWYG - https://www.writelatex.com/
 - LaTeX Examples - http://www.texample.net/
+```
+
+
 ```python
 #### 🧑‍💻 Blogs/Articles
 - Terry Tao - http://terrytao.wordpress.com/
@@ -131,6 +147,8 @@ Many businesses recognize that they must make considerable investments in data s
 - Secret Blogging Seminar - https://sbseminar.wordpress.com/
 - Math Wizurd - http://www.mathwizurd.com/calc
 ```
+
+```python
 #### 🧑‍💻 Misc
 - academicearth.org - http://www.academicearth.org/subjects/mathematics
 - Encyclopedia of Mathematics - http://www.encyclopediaofmath.org/
@@ -139,6 +157,7 @@ Many businesses recognize that they must make considerable investments in data s
 - MathIM - http://www.mathim.com/
 - Free Book on Neural Network and Deep Learning - http://neuralnetworksanddeeplearning.com/
 - Informational website on artificial intelligence - https://intelligencereborn.com
+```
 
 #### 🧑‍💻 Other Lists of resources
 - Math Overflow's List of Free Online Lectures - http://mathoverflow.net/questions/54430/video-lectures-of-mathematics-courses-available-online-for-free
@@ -146,7 +165,7 @@ Many businesses recognize that they must make considerable investments in data s
 - Fun Learning Projects on Machine Learning for Beginners - https://elitedatascience.com/machine-learning-projects-for-beginners
 
 
-
+```python
 
 ### 🧑‍💻 FREE MACHINE LEARNING COURSES:
 - Machine Learning by Andrew NG - https://www.coursera.org/learn/machine-learning
@@ -163,29 +182,39 @@ Many businesses recognize that they must make considerable investments in data s
 - Intro to Machine Learning Course at Kaggle - https://www.kaggle.com/learn/intro-to-machine-learning
 - Intermediate Machine Learning Course at Kaggle - https://www.kaggle.com/learn/intermediate-machine-learning
 - Machine Learning with Python - https://cognitiveclass.ai/courses/machine-learning-with-python
+```
 
+```python
 ### 🧑‍💻 FREE DATA SCIENCE COURSES:
 - IBM Data Science Professional Certificate - https://www.coursera.org/professional-certificates/ibm-data-science
 - Udacity Intro to Data Science - https://www.udacity.com/course/intro-to-data-science--ud359
 - Introduction to Data Science in Python - https://www.coursera.org/learn/python-data-analysis
 - Introduction to Data Science Revised - https://alison.com/course/introduction-to-data-science-revised
 - A Crash Course in Data Science - https://www.coursera.org/learn/data-science-course
+```
 
+```python
 ### 🧑‍💻 FREE DEEP LEARNING COURSES:
 - Google’s Deep Learning Course- https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
 - Practical Deep Learning for Coders - https://course.fast.ai/
 - Deep Learning from the Foundations - https://course.fast.ai/part2
 - Intro to Deep Learning using Tensorflow and Keras Course at Kaggle - https://www.kaggle.com/learn/intro-to-deep-learning
 - Free Book on Neural Network and Deep Learning - http://neuralnetworksanddeeplearning.com/
+```
 
+```python
 ### 🗣🧑‍💻 FREE NLP COURSES:
 - A Code-First Introduction to Natural Language Processing - https://www.fast.ai/2019/07/08/fastai-nlp/
 - Natural Language Processing Specialization by Deeplearning.ai - https://www.coursera.org/specializations/natural-language-processing
 - Natural Language Processing Course at Kaggle - https://www.kaggle.com/learn/natural-language-processing
+```
+
 
 ### 🧑‍💻 FREE MACHINE LEARNING IN GRAPHICS AND VISION COURSES:
 - CVPR 2020: Neural Rendering - https://www.neuralrender.com/
 
+
+```python
 ### 🏆 DATA SCIENCE COMPETITION HOSTING PLATFORMS:
 - Kaggle - https://www.kaggle.com/
 - Analytics Vidhya - https://www.analyticsvidhya.com/
@@ -199,7 +228,9 @@ Many businesses recognize that they must make considerable investments in data s
 - Tianchi - https://tianchi.aliyun.com/competition/gameList/activeList
 - Omdena - https://omdena.com/
 - HackerEarth -https://www.hackerearth.com/hackathon/explore/field/machine-learning/
+```
 
+```python
 ### 🧑‍💻 DATASET REPOSITORIES:
 - Data World - https://data.world/datasets/open-data
 - Dataset Search by Google - https://datasetsearch.research.google.com/
@@ -209,7 +240,9 @@ Many businesses recognize that they must make considerable investments in data s
 - UCR - http://timeseriesclassification.com/
 - Tensorflow Datasets - https://www.tensorflow.org/datasets/catalog/overview
 - Quandl - https://www.quandl.com/
+```
 
+```python
 ### 🧑‍💻 AI RESEARCH AT BIG COMPANIES:
 - Machine Learning at Apple - https://machinelearning.apple.com/
 - AI at Uber - https://www.uber.com/us/en/uberai/
@@ -227,12 +260,15 @@ Many businesses recognize that they must make considerable investments in data s
 - Amazon Science - https://www.amazon.science/
 - Data Science at Bolt - https://medium.com/@boltapp
 - Industrial AI Research at Hitachi - https://www.hitachi.com/rd/sc/aiblog/index.html
+```
 
+```python
 ### 🧑‍💻 DEVELOPER RESOURCES:
 - Apple - https://developer.apple.com/machine-learning/
 - Facebook - https://ai.facebook.com/tools/
 - Google - https://cloud.google.com/products/ai
 - Microsoft - https://docs.microsoft.com/en-us/ai/
+```
 
 ### 🎥 YOUTUBE CHANNELS:
 - The Massachusetts Institute of Technology's Computer Science and Artificial Intelligence Laboratory - https://www.youtube.com/user/MITCSAIL/videos
@@ -247,6 +283,8 @@ Many businesses recognize that they must make considerable investments in data s
 - TechWithTim - Python and ML Tutorials - https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
 - Jabrils https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg
 
+
+```python
 ### 💼 AI JOB SITES:
 - DataYoshi - https://www.datayoshi.com/
 - AI Jobs - https://aijobs.com/
@@ -255,7 +293,9 @@ Many businesses recognize that they must make considerable investments in data s
 - Kaggle Jobs - https://www.kaggle.com/jobs
 - Remote AI/ML Jobs: https://www.remoteaijobs.com/
 - AI Jobs Board: https://aijobsboard.com/
+```
 
+```python
 ### 📝 AI BLOGS:
 - Towards Data Science: https://towardsdatascience.com/
 - Towards Machine Learning: https://towardsml.com/
@@ -273,6 +313,7 @@ Many businesses recognize that they must make considerable investments in data s
 - Algorithmia: https://algorithmia.com/blog
 - Machine Learning Mastery: https://machinelearningmastery.com/blog/
 - Learn OpenCV: https://www.learnopencv.com/
+```
 
 ### 🧑‍💻 AI CHEAT-SHEETS:
 - Best of AI Cheat-Sheets: https://github.com/ahammadmejbah/DataScience-MachineLearning-DeepLearning-CheatSheet
