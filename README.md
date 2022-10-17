@@ -1,5 +1,6 @@
 </div>
 
+```python
 ### WHAT IS AI?
 
 AI, which stands for artificial intelligence, refers, in its most basic form, to systems or computers that imitate human intellect in order to carry out tasks and may iteratively improve themselves depending on the information that they acquire. There are many different guises that AI may take. Here are a few examples:
@@ -19,6 +20,7 @@ Applications that execute complicated activities that traditionally needed human
 Many businesses recognize that they must make considerable investments in data science teams if they want to realize the full potential of AI. Data science is an interdisciplinary subject that employs scientific and other approaches to extract value from data. To evaluate data gathered from a variety of sources, data scientists combine the skills they've gained in areas such as statistics and computer science with their understanding of business.
 
 
+```
 
 ### 🧑‍💻 FREE AI COURSES:
 - EdX’s Artificial Intelligence - https://www.edx.org/course/artificial-intelligence-ai
